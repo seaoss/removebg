@@ -1,2 +1,2 @@
 # removebg
-A simple picture tool for removing the backgroup.
+A simple picture tool for removing the background.

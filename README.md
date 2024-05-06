@@ -1,5 +1,6 @@
 # removebg
 A simple picture tool for removing the background.
+
 Dear User,
 
 Thank you for choosing our self-developed image background removal software. We recognize the importance of copyright and legal use, and therefore we would like to make the following clear declarations:
